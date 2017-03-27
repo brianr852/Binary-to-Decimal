@@ -1,5 +1,5 @@
 # Binary-to-Decimal
-This program prompts the user for a binary number and converts it to deciaml.
+This program prompts the user for a binary number and converts it to deciaml. <br />
 run: <br />
 Please enter a binary number > 1011 <br />
 The decimal equivalent of binary number 1011 is 11 <br />
